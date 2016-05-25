@@ -1,0 +1,29 @@
+{
+  "name": "senso-catbox-example",
+  "version": "1.0.0",
+  "description": "A simple example that implement redis cache in your web application which highly improves your application performance",
+  "main": "node server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesGu14/senso-catbox-example.git"
+  },
+  "keywords": [
+    "redis",
+    "senso",
+    "catbox",
+    "example"
+  ],
+  "author": "James Gu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesGu14/senso-catbox-example/issues"
+  },
+  "homepage": "https://github.com/JamesGu14/senso-catbox-example#readme",
+  "dependencies": {
+    "catbox": "^7.1.1",
+    "catbox-redis": "^1.0.10"
+  }
+}
